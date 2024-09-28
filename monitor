@@ -1,0 +1,7 @@
+O Azure Monitor é uma ferramenta poderosa para monitorar e melhorar o desempenho e a disponibilidade de suas aplicações e serviços. Ele coleta, analisa e age sobre a telemetria de ambientes na nuvem e locais. Aqui estão alguns dos principais recursos:
+
+Coleta de Dados: Azure Monitor pode coletar dados de várias fontes, incluindo a plataforma Azure, recursos de computação, aplicações e qualquer cliente de API REST.
+Análise e Visualização: Ele oferece ferramentas para visualizar, consultar e criar alertas com base nos dados coletados.
+Insights Específicos: Fornece insights detalhados para aplicações e serviços específicos, ajudando a identificar e resolver problemas rapidamente.
+Integração: Integra-se com outras ferramentas e serviços, facilitando a automação de ações baseadas nos dados coletados.
+Além disso, o Intelligent Insights do Azure SQL Database usa inteligência artificial para monitorar continuamente o uso do banco de dados e detectar eventos que causam baixo desempenho.
